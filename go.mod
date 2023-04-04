@@ -14,7 +14,7 @@ require (
 	github.com/davecgh/go-spew v1.1.1
 	github.com/deckarep/golang-set v1.8.0
 	github.com/dgraph-io/badger v1.6.0
-	github.com/docker/docker v1.13.1
+	github.com/docker/docker v20.10.24+incompatible
 	github.com/edsrzf/mmap-go v1.0.0
 	github.com/fatih/color v1.9.0
 	github.com/fjl/memsize v0.0.0-20190710130421-bcb5799ab5e5
@@ -73,4 +73,5 @@ require (
 	gopkg.in/sourcemap.v1 v1.0.5 // indirect
 	gopkg.in/urfave/cli.v1 v1.20.0
 	gotest.tools v2.2.0+incompatible
+	gotest.tools/v3 v3.4.0 // indirect
 )
