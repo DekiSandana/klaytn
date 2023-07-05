@@ -22,7 +22,7 @@ require (
 	github.com/go-redis/redis/v7 v7.4.0
 	github.com/go-sql-driver/mysql v1.6.0
 	github.com/go-stack/stack v1.8.0
-	github.com/golang/mock v1.4.4
+	github.com/golang/mock v1.6.0
 	github.com/golang/protobuf v1.5.2
 	github.com/golang/snappy v0.0.4
 	github.com/gorilla/websocket v1.5.0
@@ -54,8 +54,8 @@ require (
 	github.com/satori/go.uuid v1.2.0
 	github.com/steakknife/bloomfilter v0.0.0-20180922174646-6819c0d2a570
 	github.com/steakknife/hamming v0.0.0-20180906055917-c99c65617cd3 // indirect
-	github.com/stretchr/testify v1.7.0
-	github.com/supranational/blst v0.3.10 // indirect
+	github.com/stretchr/testify v1.8.1
+	github.com/supranational/blst v0.3.10
 	github.com/syndtr/goleveldb v1.0.1-0.20210819022825-2ae1ddf74ef7
 	github.com/tyler-smith/go-bip32 v1.0.0
 	github.com/urfave/cli v1.20.0
@@ -64,8 +64,8 @@ require (
 	golang.org/x/crypto v0.1.0
 	golang.org/x/net v0.7.0
 	golang.org/x/sys v0.5.0
-	golang.org/x/tools v0.1.12
-	google.golang.org/grpc v1.32.0
+	golang.org/x/tools v0.3.0
+	google.golang.org/grpc v1.53.0
 	gopkg.in/DataDog/dd-trace-go.v1 v1.40.1
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c
 	gopkg.in/fatih/set.v0 v0.1.0
